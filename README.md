@@ -1,4 +1,4 @@
-# Devanagari-Numerals-detection-using-ANN
+# Devanagari-Numerals-Detection-using-ANN
 
 
 This code is nothing but Devanagari Numerals detection using Artificial Neural Network (ANN).
