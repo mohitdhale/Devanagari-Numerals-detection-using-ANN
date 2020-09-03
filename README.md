@@ -1,7 +1,7 @@
 # Devanagari-Numerals-Detection-using-ANN
 
 
-This code is nothing but Devanagari Numerals detection using Artificial Neural Network (ANN).
+This code is nothing but Devanagari Numerals detection using Artificial Neural Network (ANN),
 where 500 images are there for training in which total 10 classes are there with 50 images individually and 150 images are there for testing.
 
 1. preprocess.m - This file is having code of preprocessing in which binariazation, dilation and thinning processes is done.This file can be refer for checking which processes are done before applying to model i.e. kind of feature.
